@@ -1,0 +1,40 @@
+<thirdtable>
+    <personinfo sr="1">
+		<id> 1 </id>
+        <name> John Doe </name>
+        <address> 
+			<house> 38	</house>
+			<road> 3	</road>
+			<area> Banani	</area>
+			<district>	Dhaka	</district>
+		</address>
+		<department> Sales </department>
+		<salary> $20000 </salary>
+    </personinfo>
+	
+	<personinfo sr="1">
+		<id> 2 </id>
+        <name>  </name>
+        <address>
+			<flat> A/1 </flat>
+			<house> 20	</house>
+			<road> 18	</road>
+			<area> Mirpur	</area>
+			<district> Dhaka	</district>		
+		</address>
+		<department> Accounts </department>
+		<salary> 12000 </salary>
+    </personinfo>
+	
+	<personinfo sr="1">
+		<id> 3 </id>
+        <name>  </name>
+        <address> 
+			<house>	38 </house>
+			<road>3	</road>
+			<area>	Motijheel </area>
+		</address>
+		<department> Human Resources </department>
+		<salary> 30000 </salary>
+    </personinfo>
+</thirdtable>
