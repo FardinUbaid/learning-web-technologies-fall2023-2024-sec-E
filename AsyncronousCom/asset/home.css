@@ -1,0 +1,48 @@
+/* app.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFE4E1;
+    margin: 0;
+    padding: 0;
+}
+
+fieldset {
+    width: 80%;
+    margin: 50px auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+legend {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #40E0D0;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}

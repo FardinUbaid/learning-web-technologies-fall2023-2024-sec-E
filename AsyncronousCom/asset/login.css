@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFE4E1;
+    margin: 0;
+    padding: 0;
+}
+
+center {
+    margin-top: 50px;
+}
+
+fieldset {
+    width: 50%;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+table {
+    width: 100%;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: calc(100% - 16px);
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #00CED1;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #008B8B;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+}
+
+hr {
+    border: 1px solid #ccc;
+}
+
+h3 {
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    margin: 0;
+}
